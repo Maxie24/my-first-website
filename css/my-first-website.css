@@ -2,3 +2,14 @@ h1{
   color: blue;
   font-size: 48px;
 }
+h2{
+  color:red;
+  font-size: 36px;
+  text-align: center;
+  font-family: sans-serif; 
+}
+p{
+  color: green;
+  font-size: 24px;
+  text-align: right;
+}
